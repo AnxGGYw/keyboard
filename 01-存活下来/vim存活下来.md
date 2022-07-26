@@ -14,7 +14,7 @@ const d: (params: any) => void = params => {
 
 let aa: number = 11
 let bb: string = '22'
-let cc: Symbol = Symbol('cc')
+let cc: symbol = Symbol('cc')
 
 const add: (a: number, b: number) => number = (a, b) => {
   return a + b
