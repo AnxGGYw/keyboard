@@ -11,7 +11,7 @@ function getElementByClassName() {
   }
   const a = 123
   const b = 456
-  const c = 789LLLL
+  const c = 789
   const d = 'anx'
 }
 ```
